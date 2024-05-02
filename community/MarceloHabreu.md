@@ -1,6 +1,6 @@
 
 # MarceloHabreu
-Olá! Me chamo Marcelo, tenho 18 anos, e sou estudande do 1º periodo do curso de Análise e Desenvolvimento de Sistemas.
+Olá! Me chamo Marcelo, tenho 18 anos, e sou estudante do 1º periodo do curso de Análise e Desenvolvimento de Sistemas.
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcello_hs/)
 
